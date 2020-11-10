@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 require 'function.php';
 
 $id = $_GET["id"];
@@ -17,8 +17,4 @@ if (delete($id) > 0 ) {
 			</script>
 			";
 }
-
-
-
-
- ?>
+ ?> -->
